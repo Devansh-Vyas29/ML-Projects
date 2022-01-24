@@ -1,0 +1,557 @@
+state,city,zipcode
+Celje,Celje,3000
+Celje,Celje,3001
+Celje,smartno v Rozni dolini,3201
+Celje,Ljubecna,3202
+Celje,Nova Cerkev,3203
+Celje,Dobrna,3204
+Celje,Vitanje,3205
+Celje,Stranice,3206
+Celje,Slovenske Konjice,3210
+Celje,skofja vas,3211
+Celje,Vojnik,3212
+Celje,Frankolovo,3213
+Celje,Zrece,3214
+Celje,Loce,3215
+Celje,store,3220
+Celje,Teharje,3221
+Celje,Dramlje,3222
+Celje,Loka pri zusmu,3223
+Celje,Dobje pri Planini,3224
+Celje,Planina pri Sevnici,3225
+Celje,sentjur,3230
+Celje,Grobelno,3231
+Celje,Ponikva,3232
+Celje,Kalobje,3233
+Celje,smarje pri Jelsah,3240
+Celje,Podplat,3241
+Celje,Rogaska Slatina,3250
+Celje,Rogatec,3252
+Celje,Pristava pri Mestinju,3253
+Celje,Podcetrtek,3254
+Celje,Buce,3255
+Celje,Bistrica ob Sotli,3256
+Celje,Podsreda,3257
+Celje,Kozje,3260
+Celje,Lesicno,3261
+Celje,Prevorje,3262
+Celje,Gorica pri Slivnici,3263
+Celje,Sveti stefan,3264
+Celje,Lasko,3270
+Celje,sentrupert,3271
+Celje,Rimske Toplice,3272
+Celje,Jurkloster,3273
+Celje,Petrovce,3301
+Celje,Grize,3302
+Celje,Gomilsko,3303
+Celje,Tabor,3304
+Celje,Vransko,3305
+Celje,zalec,3310
+Celje,sempeter v Savinjski dolini,3311
+Celje,Prebold,3312
+Celje,Polzela,3313
+Celje,Braslovce,3314
+Celje,Velenje,3320
+Celje,Velenje,3322
+Celje,sostanj,3325
+Celje,Topolsica,3326
+Celje,smartno ob Paki,3327
+Celje,Mozirje,3330
+Celje,Nazarje,3331
+Celje,Recica ob Savinji,3332
+Celje,Ljubno ob Savinji,3333
+Celje,Luce,3334
+Celje,Solcava,3335
+Celje,smartno ob Dreti,3341
+Celje,Gornji Grad,3342
+Celje,Celje,3502
+Celje,Velenje,3503
+Celje,Velenje,3504
+Celje,Celje,3505
+Celje,Celje,3600
+Koper,Koper/Capodistria,6000
+Koper,Koper/Capodistria,6001
+Koper,Sezana,6210
+Koper,Divaca,6215
+Koper,Podgorje,6216
+Koper,Vremski Britof,6217
+Koper,Lokev,6219
+Koper,Dutovlje,6221
+Koper,stanjel,6222
+Koper,Komen,6223
+Koper,Senozece,6224
+Koper,Hrusevje,6225
+Koper,Postojna,6230
+Koper,Planina,6232
+Koper,Kozina,6240
+Koper,Materija,6242
+Koper,Obrov,6243
+Koper,Podgrad,6244
+Koper,Ilirska Bistrica,6250
+Koper,Ilirska Bistrica-Trnovo,6251
+Koper,Knezak,6253
+Koper,Jelsane,6254
+Koper,Prem,6255
+Koper,Kosana,6256
+Koper,Pivka,6257
+Koper,Prestranek,6258
+Koper,Dekani,6271
+Koper,Gracisce,6272
+Koper,Marezige,6273
+Koper,smarje,6274
+Koper,crni Kal,6275
+Koper,Pobegi,6276
+Koper,Ankaran/Ancarano,6280
+Koper,skofije,6281
+Koper,Izola/Isola,6310
+Koper,Portoroz/Portorose,6320
+Koper,Strunjan/Strugnano (sezonska posta),6323
+Koper,Piran/Pirano,6330
+Koper,Secovlje/Sicciole,6333
+Koper,Koper,6501
+Koper,Koper,6502
+Koper,Koper,6503
+Koper,Koper,6504
+Koper,Koper,6505
+Koper,Koper,6600
+Kranj,Kranj,4000
+Kranj,Kranj,4001
+Kranj,Zgornja Besnica,4201
+Kranj,Naklo,4202
+Kranj,Duplje,4203
+Kranj,Golnik,4204
+Kranj,Preddvor,4205
+Kranj,Zgornje Jezersko,4206
+Kranj,Cerklje na Gorenjskem,4207
+Kranj,sencur,4208
+Kranj,zabnica,4209
+Kranj,Brnik aerodrom,4210
+Kranj,Mavcice,4211
+Kranj,Visoko,4212
+Kranj,skofja Loka,4220
+Kranj,Poljane nad skofjo Loko,4223
+Kranj,Gorenja vas,4224
+Kranj,Sovodenj,4225
+Kranj,ziri,4226
+Kranj,Selca,4227
+Kranj,zelezniki,4228
+Kranj,Sorica,4229
+Kranj,Radovljica,4240
+Kranj,Brezje,4243
+Kranj,Podnart,4244
+Kranj,Kropa,4245
+Kranj,Kamna Gorica,4246
+Kranj,Zgornje Gorje,4247
+Kranj,Lesce,4248
+Kranj,Bled,4260
+Kranj,Bohinjska Bela,4263
+Kranj,Bohinjska Bistrica,4264
+Kranj,Bohinjsko jezero,4265
+Kranj,Srednja vas v Bohinju,4267
+Kranj,Jesenice,4270
+Kranj,Blejska Dobrava,4273
+Kranj,zirovnica,4274
+Kranj,Begunje na Gorenjskem,4275
+Kranj,Hrusica,4276
+Kranj,Kranjska Gora,4280
+Kranj,Mojstrana,4281
+Kranj,Gozd Martuljek,4282
+Kranj,Ratece-Planica,4283
+Kranj,Trzic,4290
+Kranj,Krize,4294
+Kranj,Naklo,4501
+Kranj,Kranj,4502
+Kranj,Kranj,4600
+Ljubljana,Ljubljana,1000
+Ljubljana,Ljubljana,1001
+Ljubljana,Ljubljana sentvid,1210
+Ljubljana,Ljubljana-smartno,1211
+Ljubljana,Medvode,1215
+Ljubljana,Smlednik,1216
+Ljubljana,Vodice,1217
+Ljubljana,Komenda,1218
+Ljubljana,Laze v Tuhinju,1219
+Ljubljana,Motnik,1221
+Ljubljana,Trojane,1222
+Ljubljana,Blagovica,1223
+Ljubljana,Lukovica,1225
+Ljubljana,Domzale,1230
+Ljubljana,Ljubljana crnuce,1231
+Ljubljana,Dob,1233
+Ljubljana,Menges,1234
+Ljubljana,Radomlje,1235
+Ljubljana,Trzin,1236
+Ljubljana,Kamnik,1241
+Ljubljana,Stahovica,1242
+Ljubljana,Moravce,1251
+Ljubljana,Vace,1252
+Ljubljana,Ljubljana Polje,1260
+Ljubljana,Ljubljana-Dobrunje,1261
+Ljubljana,Dol pri Ljubljani,1262
+Ljubljana,Litija,1270
+Ljubljana,Polsnik,1272
+Ljubljana,Dole pri Litiji,1273
+Ljubljana,Gabrovka,1274
+Ljubljana,smartno pri Litiji,1275
+Ljubljana,Primskovo,1276
+Ljubljana,Kresnice,1281
+Ljubljana,Sava,1282
+Ljubljana,Grosuplje,1290
+Ljubljana,skofljica,1291
+Ljubljana,Ig,1292
+Ljubljana,smarje-Sap,1293
+Ljubljana,Visnja Gora,1294
+Ljubljana,Ivancna Gorica,1295
+Ljubljana,sentvid pri Sticni,1296
+Ljubljana,Krka,1301
+Ljubljana,Zagradec,1303
+Ljubljana,Ribnica,1310
+Ljubljana,Turjak,1311
+Ljubljana,Videm-Dobrepolje,1312
+Ljubljana,Struge,1313
+Ljubljana,Rob,1314
+Ljubljana,Velike Lasce,1315
+Ljubljana,Ortnek,1316
+Ljubljana,Sodrazica,1317
+Ljubljana,Loski Potok,1318
+Ljubljana,Draga,1319
+Ljubljana,Kocevje,1330
+Ljubljana,Dolenja vas,1331
+Ljubljana,Stara Cerkev,1332
+Ljubljana,Vas,1336
+Ljubljana,Osilnica,1337
+Ljubljana,Kocevska Reka,1338
+Ljubljana,Brezovica pri Ljubljani,1351
+Ljubljana,Preserje,1352
+Ljubljana,Borovnica,1353
+Ljubljana,Horjul,1354
+Ljubljana,Polhov Gradec,1355
+Ljubljana,Dobrova,1356
+Ljubljana,Notranje Gorice,1357
+Ljubljana,Log pri Brezovici,1358
+Ljubljana,Vrhnika,1360
+Ljubljana,Logatec,1370
+Ljubljana,Logatec,1371
+Ljubljana,Hotedrsica,1372
+Ljubljana,Rovte,1373
+Ljubljana,Cerknica,1380
+Ljubljana,Rakek,1381
+Ljubljana,Begunje pri Cerknici,1382
+Ljubljana,Grahovo,1384
+Ljubljana,Nova vas,1385
+Ljubljana,Stari trg pri Lozu,1386
+Ljubljana,Zagorje ob Savi,1410
+Ljubljana,Izlake,1411
+Ljubljana,Kisovec,1412
+Ljubljana,cemsenik,1413
+Ljubljana,Podkum,1414
+Ljubljana,Trbovlje,1420
+Ljubljana,Dobovec,1423
+Ljubljana,Hrastnik,1430
+Ljubljana,Dol pri Hrastniku,1431
+Ljubljana,Zidani Most,1432
+Ljubljana,Radece,1433
+Ljubljana,Loka pri Zidanem Mostu,1434
+Ljubljana,Ljubljana,1500
+Ljubljana,Ljubljana,1501
+Ljubljana,Ljubljana,1502
+Ljubljana,Ljubljana,1503
+Ljubljana,Ljubljana,1504
+Ljubljana,Ljubljana,1505
+Ljubljana,Ljubljana,1506
+Ljubljana,Ljubljana,1507
+Ljubljana,Ljubljana,1508
+Ljubljana,Ljubljana,1509
+Ljubljana,Ljubljana,1510
+Ljubljana,Ljubljana,1511
+Ljubljana,Ljubljana,1512
+Ljubljana,Ljubljana,1513
+Ljubljana,Ljubljana,1514
+Ljubljana,Ljubljana,1516
+Ljubljana,Ljubljana,1517
+Ljubljana,Ljubljana,1518
+Ljubljana,Ljubljana,1519
+Ljubljana,Ljubljana,1520
+Ljubljana,Ljubljana,1521
+Ljubljana,Ljubljana,1522
+Ljubljana,Ljubljana,1523
+Ljubljana,Ljubljana,1524
+Ljubljana,Ljubljana,1525
+Ljubljana,Ljubljana,1526
+Ljubljana,Ljubljana,1527
+Ljubljana,Ljubljana,1528
+Ljubljana,Ljubljana,1529
+Ljubljana,Ljubljana,1532
+Ljubljana,Ljubljana,1533
+Ljubljana,Ljubljana,1534
+Ljubljana,Ljubljana,1535
+Ljubljana,Ljubljana,1536
+Ljubljana,Ljubljana,1537
+Ljubljana,Ljubljana,1538
+Ljubljana,Ljubljana,1540
+Ljubljana,Ljubljana,1542
+Ljubljana,Ljubljana,1543
+Ljubljana,Ljubljana,1544
+Ljubljana,Ljubljana,1545
+Ljubljana,Ljubljana,1546
+Ljubljana,Ljubljana,1547
+Ljubljana,Ljubljana,1550
+Ljubljana,Ljubljana,1600
+Maribor,Maribor,2000
+Maribor,Maribor,2001
+Maribor,Zgornja Kungota,2201
+Maribor,Miklavz na Dravskem polju,2204
+Maribor,Starse,2205
+Maribor,Marjeta na Dravskem polju,2206
+Maribor,Pohorje,2208
+Maribor,Pesnica pri Mariboru,2211
+Maribor,sentilj v Slovenskih goricah,2212
+Maribor,Zgornja Velka,2213
+Maribor,Sladki Vrh,2214
+Maribor,Cersak,2215
+Maribor,Jarenina,2221
+Maribor,Jakobski Dol,2222
+Maribor,Jurovski Dol,2223
+Maribor,Malecnik,2229
+Maribor,Lenart v Slovenskih goricah,2230
+Maribor,Pernica,2231
+Maribor,Volicina,2232
+Maribor,Sv. Ana v Slovenskih goricah,2233
+Maribor,Benedikt,2234
+Maribor,Sv. Trojica v Slovenskih goricah,2235
+Maribor,Cerkvenjak,2236
+Maribor,Spodnji Duplek,2241
+Maribor,Zgornja Korena,2242
+Maribor,Ptuj,2250
+Maribor,Dornava,2252
+Maribor,Destrnik,2253
+Maribor,Trnovska vas,2254
+Maribor,Vitomarci,2255
+Maribor,Jursinci,2256
+Maribor,Polensak,2257
+Maribor,Sveti Tomaz,2258
+Maribor,Ivanjkovci,2259
+Maribor,Ormoz,2270
+Maribor,Gorisnica,2272
+Maribor,Podgorci,2273
+Maribor,Velika Nedelja,2274
+Maribor,Miklavz pri Ormozu,2275
+Maribor,Kog,2276
+Maribor,Sredisce ob Dravi,2277
+Maribor,Markovci,2281
+Maribor,Cirkulane,2282
+Maribor,Zavrc,2283
+Maribor,Videm pri Ptuju,2284
+Maribor,Zgornji Leskovec,2285
+Maribor,Podlehnik,2286
+Maribor,zetale,2287
+Maribor,Hajdina,2288
+Maribor,Stoperce,2289
+Maribor,Slovenska Bistrica,2310
+Maribor,Hoce,2311
+Maribor,Orehova vas,2312
+Maribor,Fram,2313
+Maribor,Zgornja Polskava,2314
+Maribor,smartno na Pohorju,2315
+Maribor,Zgornja Loznica,2316
+Maribor,Oplotnica,2317
+Maribor,Laporje,2318
+Maribor,Poljcane,2319
+Maribor,Makole,2321
+Maribor,Majsperk,2322
+Maribor,Ptujska Gora,2323
+Maribor,Lovrenc na Dravskem polju,2324
+Maribor,Kidricevo,2325
+Maribor,Cirkovce,2326
+Maribor,Race,2327
+Maribor,Pragersko,2331
+Maribor,Limbus,2341
+Maribor,Ruse,2342
+Maribor,Fala,2343
+Maribor,Lovrenc na Pohorju,2344
+Maribor,Bistrica ob Dravi,2345
+Maribor,Kamnica,2351
+Maribor,Selnica ob Dravi,2352
+Maribor,Sv. Duh na Ostrem Vrhu,2353
+Maribor,Bresternica,2354
+Maribor,Radlje ob Dravi,2360
+Maribor,Ozbalt,2361
+Maribor,Kapla,2362
+Maribor,Podvelka,2363
+Maribor,Ribnica na Pohorju,2364
+Maribor,Vuhred,2365
+Maribor,Muta,2366
+Maribor,Vuzenica,2367
+Maribor,Dravograd,2370
+Maribor,Trbonje,2371
+Maribor,Libelice,2372
+Maribor,sentjanz pri Dravogradu,2373
+Maribor,Slovenj Gradec,2380
+Maribor,Podgorje pri Slovenj Gradcu,2381
+Maribor,Mislinja,2382
+Maribor,smartno pri Slovenj Gradcu,2383
+Maribor,Ravne na Koroskem,2390
+Maribor,Prevalje,2391
+Maribor,Mezica,2392
+Maribor,crna na Koroskem,2393
+Maribor,Kotlje,2394
+Maribor,Maribor,2500
+Maribor,Maribor,2501
+Maribor,Maribor,2502
+Maribor,Maribor,2503
+Maribor,Maribor,2504
+Maribor,Maribor,2505
+Maribor,Maribor,2506
+Maribor,Maribor,2507
+Maribor,Maribor,2509
+Maribor,Maribor,2600
+Maribor,Maribor,2603
+Maribor,Maribor,2609
+Maribor,Maribor,2610
+Murska Sobota,Murska Sobota,9000
+Murska Sobota,Murska Sobota,9001
+Murska Sobota,Puconci,9201
+Murska Sobota,Mackovci,9202
+Murska Sobota,Petrovci,9203
+Murska Sobota,salovci,9204
+Murska Sobota,Hodos/Hodos,9205
+Murska Sobota,Krizevci,9206
+Murska Sobota,Prosenjakovci/Partosfalva,9207
+Murska Sobota,Fokovci,9208
+Murska Sobota,Lendava/Lendva,9220
+Murska Sobota,Martjanci,9221
+Murska Sobota,Bogojina,9222
+Murska Sobota,Dobrovnik/Dobronak,9223
+Murska Sobota,Turnisce,9224
+Murska Sobota,Velika Polana,9225
+Murska Sobota,Moravske Toplice,9226
+Murska Sobota,Kobilje,9227
+Murska Sobota,Beltinci,9231
+Murska Sobota,crensovci,9232
+Murska Sobota,Odranci,9233
+Murska Sobota,Ljutomer,9240
+Murska Sobota,Verzej,9241
+Murska Sobota,Krizevci pri Ljutomeru,9242
+Murska Sobota,Mala Nedelja,9243
+Murska Sobota,Sv. Jurij ob scavnici,9244
+Murska Sobota,Spodnji Ivanjci,9245
+Murska Sobota,Gornja Radgona,9250
+Murska Sobota,Tisina,9251
+Murska Sobota,Radenci,9252
+Murska Sobota,Apace,9253
+Murska Sobota,Cankova,9261
+Murska Sobota,Rogasovci,9262
+Murska Sobota,Kuzma,9263
+Murska Sobota,Grad,9264
+Murska Sobota,Bodonci,9265
+Murska Sobota,Murska Sobota,9501
+Murska Sobota,Radenci,9502
+Murska Sobota,Murska Sobota,9600
+Nova Gorica,Nova Gorica,5000
+Nova Gorica,Nova Gorica,5001
+Nova Gorica,Deskle,5210
+Nova Gorica,Kojsko,5211
+Nova Gorica,Dobrovo v Brdih,5212
+Nova Gorica,Kanal,5213
+Nova Gorica,Kal nad Kanalom,5214
+Nova Gorica,Rocinj,5215
+Nova Gorica,Most na Soci,5216
+Nova Gorica,Tolmin,5220
+Nova Gorica,Kobarid,5222
+Nova Gorica,Breginj,5223
+Nova Gorica,Srpenica,5224
+Nova Gorica,Bovec,5230
+Nova Gorica,Log pod Mangartom,5231
+Nova Gorica,Soca,5232
+Nova Gorica,Grahovo ob Baci,5242
+Nova Gorica,Podbrdo,5243
+Nova Gorica,Solkan,5250
+Nova Gorica,Grgar,5251
+Nova Gorica,Trnovo pri Gorici,5252
+Nova Gorica,cepovan,5253
+Nova Gorica,sempas,5261
+Nova Gorica,crnice,5262
+Nova Gorica,Dobravlje,5263
+Nova Gorica,Ajdovscina,5270
+Nova Gorica,Vipava,5271
+Nova Gorica,Podnanos,5272
+Nova Gorica,Col,5273
+Nova Gorica,crni Vrh nad Idrijo,5274
+Nova Gorica,Godovic,5275
+Nova Gorica,Idrija,5280
+Nova Gorica,Spodnja Idrija,5281
+Nova Gorica,Cerkno,5282
+Nova Gorica,Slap ob Idrijci,5283
+Nova Gorica,sempeter pri Gorici,5290
+Nova Gorica,Miren,5291
+Nova Gorica,Rence,5292
+Nova Gorica,Volcja Draga,5293
+Nova Gorica,Dornberk,5294
+Nova Gorica,Branik,5295
+Nova Gorica,Kostanjevica na Krasu,5296
+Nova Gorica,Prvacina,5297
+Nova Gorica,Nova Gorica,5600
+Novo Mesto,Novo mesto,8000
+Novo Mesto,Novo mesto,8001
+Novo Mesto,Trebnje,8210
+Novo Mesto,Dobrnic,8211
+Novo Mesto,Velika Loka,8212
+Novo Mesto,Veliki Gaber,8213
+Novo Mesto,Mirna Pec,8216
+Novo Mesto,smarjeske Toplice,8220
+Novo Mesto,Otocec,8222
+Novo Mesto,Mokronog,8230
+Novo Mesto,Trebelno,8231
+Novo Mesto,sentrupert,8232
+Novo Mesto,Mirna,8233
+Novo Mesto,Brezice,8250
+Novo Mesto,catez ob Savi,8251
+Novo Mesto,Artice,8253
+Novo Mesto,Globoko,8254
+Novo Mesto,Pisece,8255
+Novo Mesto,Sromlje,8256
+Novo Mesto,Dobova,8257
+Novo Mesto,Kapele,8258
+Novo Mesto,Bizeljsko,8259
+Novo Mesto,Jesenice na Dolenjskem,8261
+Novo Mesto,Krska vas,8262
+Novo Mesto,Cerklje ob Krki,8263
+Novo Mesto,Krsko,8270
+Novo Mesto,Zdole,8272
+Novo Mesto,Leskovec pri Krskem,8273
+Novo Mesto,Raka,8274
+Novo Mesto,skocjan,8275
+Novo Mesto,Bucka,8276
+Novo Mesto,Brestanica,8280
+Novo Mesto,Senovo,8281
+Novo Mesto,Koprivnica,8282
+Novo Mesto,Blanca,8283
+Novo Mesto,Sevnica,8290
+Novo Mesto,Zabukovje,8292
+Novo Mesto,Studenec,8293
+Novo Mesto,Bostanj,8294
+Novo Mesto,Trzisce,8295
+Novo Mesto,Krmelj,8296
+Novo Mesto,sentjanz,8297
+Novo Mesto,sentjernej,8310
+Novo Mesto,Kostanjevica na Krki,8311
+Novo Mesto,Podbocje,8312
+Novo Mesto,Brusnice,8321
+Novo Mesto,Stopice,8322
+Novo Mesto,Ursna sela,8323
+Novo Mesto,Metlika,8330
+Novo Mesto,Suhor,8331
+Novo Mesto,Gradac,8332
+Novo Mesto,Semic,8333
+Novo Mesto,crnomelj,8340
+Novo Mesto,Adlesici,8341
+Novo Mesto,Stari trg ob Kolpi,8342
+Novo Mesto,Dragatus,8343
+Novo Mesto,Vinica,8344
+Novo Mesto,Dolenjske Toplice,8350
+Novo Mesto,Straza,8351
+Novo Mesto,zuzemberk,8360
+Novo Mesto,Dvor,8361
+Novo Mesto,Hinje,8362
+Novo Mesto,Novo mesto,8501
+Novo Mesto,Novo mesto,8600

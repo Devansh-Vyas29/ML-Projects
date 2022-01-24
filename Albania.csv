@@ -1,0 +1,519 @@
+state,city,zipcode
+Bajram Curri,Qender,8701
+Bajram Curri,Bajram Curri,8702
+Bajram Curri,Tropoje,8703
+Bajram Curri,Fierze,8704
+Bajram Curri,Pac,8705
+Bajram Curri,Lekbibaj,8706
+Berat,Qender Berat,5001
+Berat,Berati 1,5002
+Berat,Berati 2,5003
+Berat,Berati 4,5004
+Berat,Berati 5,5005
+Berat,Berati 6,5006
+Berat,Ura Vajgurore,5007
+Berat,Poshnje,5008
+Berat,Kutalli,5009
+Berat,Otllak,5010
+Berat,Sinje,5011
+Berat,Velabisht,5012
+Berat,Lumas,5013
+Berat,Roshnik,5014
+Berat,Terpan,5015
+Berat,Mbrakull,5016
+Berat,Vertop 1,5017
+Berat,Cukalat,5018
+Berat,Cukalat 1,5019
+Berat,Lapardha,5020
+Berat,Ura e Kucit,5021
+Berat,Syzez,5022
+Bulqize,Qender Bulqize,8401
+Bulqize,Bulqiza 1,8402
+Bulqize,Martanesh,8403
+Bulqize,Shupenze,8404
+Bulqize,Ostren,8405
+Bulqize,Zerqan,8406
+Bulqize,Gjorice,8407
+Diber,Peshkopi,8301
+Diber,Maqellare,8302
+Diber,Melan,8303
+Diber,Tomin,8304
+Diber,Kastriot,8305
+Diber,Fushe-Cidhen,8306
+Diber,Sllove,8307
+Diber,Kala e Dodes,8308
+Diber,Zalle -Dardhe,8309
+Diber,Rec,8310
+Diber,Arras,8311
+Diber,Lure,8312
+Diber,Selishte,8313
+Diber,Luzni,8314
+Diber,Muhur,8315
+Diber,Seman,9326
+Diber,Verri,9327
+Diber,Fratar,9328
+Diber,Kute,9329
+Diber,Aranitas,9330
+Diber,Greshice,9331
+Diber,Hekal,9332
+Diber,Dukas,9333
+Diber,Ngracan,9334
+Diber,Selite,9335
+Elbasan,Elbasan 1,3001
+Elbasan,Elbasan 2,3002
+Elbasan,Elbasan 3,3003
+Elbasan,Elbasan 4,3004
+Elbasan,Elbasan 5,3005
+Elbasan,Elbasan 6,3006
+Elbasan,Cerrik,3007
+Elbasan,Belsh,3008
+Elbasan,Bradashesh,3009
+Elbasan,Labinot Fushe,3010
+Elbasan,Shirgjan,3011
+Elbasan,Gracen,3012
+Elbasan,Funar,3013
+Elbasan,Gjinar,3014
+Elbasan,Zavaline,3015
+Elbasan,Paper,3016
+Elbasan,Shales,3017
+Elbasan,Gostime,3018
+Elbasan,Mollas,3019
+Elbasan,Klos,3020
+Elbasan,Grekan,3021
+Elbasan,Kajan,3022
+Elbasan,Fierze,3023
+Elbasan,Labinot Mal,3024
+Elbasan,Shushice,3025
+Elbasan,Tregan,3026
+Elbasan,Gjergjan,3027
+Fier,Fier Qender,9301
+Fier,Fier 1,9302
+Fier,Fier 2,9303
+Fier,Fier 3,9304
+Fier,Fier 4,9305
+Fier,Roskovec,9306
+Fier,Patos,9307
+Fier,Ballsh,9308
+Fier,Deremenas,9309
+Fier,Libofshe,9310
+Fier,Cakran,9311
+Fier,Ruzhdie,9312
+Fier,Frakull,9313
+Fier,Levan,9314
+Fier,Kuman,9315
+Fier,Kurjan,9316
+Fier,Zharez,9317
+Fier,Portez,9318
+Fier,Strum,9319
+Fier,Suk,9320
+Fier,Ngjeqar,9321
+Fier,Fier-Ferme,9322
+Fier,Povelce,9323
+Fier,Kreshpan,9324
+Fier,Buzemadh,9325
+Fier,Xarre,9707
+Fier,Markat,9708
+Fier,Shales,9709
+Fier,Aliko,9710
+Fier,Memoraq,9711
+Fier,Cerkovic,9712
+Fier,Lukove,9713
+Fier,Borsh,9714
+Fier,Piqeras,9715
+Fier,Finiq,9716
+Fier,Mesapotam,9717
+Fier,Rusan,9718
+Fier,Stjar,9719
+Fier,Vergo,9720
+Fier,Livadhja,9721
+Gjirokaster,Qender,6001
+Gjirokaster,Gjirokastra 1,6002
+Gjirokaster,Libohove,6003
+Gjirokaster,Lazarat,6004
+Gjirokaster,Sofratike,6005
+Gjirokaster,Vrisera,6006
+Gjirokaster,Polican,6007
+Gjirokaster,Erind,6008
+Gjirokaster,Palokaster,6009
+Gjirokaster,Dervican,6010
+Gjirokaster,Jorgucat,6011
+Gjirokaster,Nivan,6012
+Gjirokaster,Valare,6013
+Gjirokaster,Ura e Kardhiqit,6014
+Gjirokaster,Labove,6015
+Gjirokaster,Suhe,6016
+Gjirokaster,Antigone,6017
+Gjirokaster,Dhoksat,6018
+Gjirokaster,Picar,6019
+Gramsh,Gramsh Qender,3301
+Gramsh,Pishaj,3302
+Gramsh,Skenderbegas,3303
+Gramsh,Sult,3304
+Gramsh,Kukur,3305
+Gramsh,Kushove,3306
+Gramsh,Tunje,3307
+Gramsh,Porocan,3308
+Gramsh,Lenie,3309
+Gramsh,Kodovjat,3310
+Has,Qender,8601
+Has,Krume 1,8602
+Has,Golaj,8603
+Has,Fajza,8604
+Has,Gjinaj,8605
+Kavaje,Kavaja Qender,2501
+Kavaje,Kavaja 1,2502
+Kavaje,Rrogozhine,2503
+Kavaje,Golem,2504
+Kavaje,Synej,2505
+Kavaje,Helmas,2506
+Kavaje,Lekaj,2507
+Kavaje,Gose,2508
+Kavaje,Luz i Vogel,2509
+Kavaje,Kryevidh,2510
+Kavaje,Sinaballaj,2511
+Kolonje(Erseke),Qender Ersek,7401
+Kolonje(Erseke),Qender Leskovik,7402
+Kolonje(Erseke),Mollas,7403
+Kolonje(Erseke),Barmash,7404
+Kolonje(Erseke),Novosele,7405
+Kolonje(Erseke),Clirim,7406
+Korce,Qender,7001
+Korce,Korca 1,7002
+Korce,Korca 2,7003
+Korce,Korca 3,7004
+Korce,Qender Maliq,7005
+Korce,Qender Bilisht,7006
+Korce,Miras,7007
+Korce,Bitincke,7008
+Korce,Hocisht,7009
+Korce,Fitore,7010
+Korce,Proger,7011
+Korce,Vishocice,7012
+Korce,Bulgarec,7013
+Korce,Pojan,7014
+Korce,Plase,7015
+Korce,Pirg,7016
+Korce,Mollaj,7017
+Korce,Moglice,7018
+Korce,Lumalas,7019
+Korce,Liqenas,7020
+Korce,Libonik,7021
+Korce,Lekas,7022
+Korce,Drenove,7023
+Korce,Dishnice,7024
+Korce,Vithkuq,7025
+Korce,Voskop,7026
+Korce,Zvarisht,7027
+Korce,Vreshtas,7028
+Korce,Voskopoje,7029
+Kruje,Kruja,1501
+Kruje,Fushe Kruje,1502
+Kruje,Thumane,1503
+Kruje,Nikel,1504
+Kruje,Bubq,1505
+Kruje,Thumane,1506
+Kruje,Sukth,1507
+Kruje,Bruz,1508
+Kruje,Durres Qender,2001
+Kruje,Durresi 1,2002
+Kruje,Durresi 2,2003
+Kruje,Durresi 3,2004
+Kruje,Durresi 4,2005
+Kruje,Durresi 5,2006
+Kruje,Shkozet,2007
+Kruje,Plazh,2008
+Kruje,Spitalle,2009
+Kruje,Sukth,2010
+Kruje,Manze 1,2011
+Kruje,Kulle,2012
+Kruje,Shijak,2013
+Kruje,Shijak/1,2014
+Kruje,Ishem,2015
+Kruje,Dra.,2016
+Kruje,Katundi i Ri,2017
+Kruje,4 Rruget e Shijakut,2018
+Kruje,Xhafzotaj,2019
+Kruje,Maminas,2020
+Kruje,Rrashbull,2021
+Kruje,Gjepalaj,2022
+Kucove,Berdice,4018
+Kucove,Dajc,4019
+Kucove,Velipoje,4020
+Kucove,Bushat,4021
+Kucove,Barbullush,4022
+Kucove,Ashte,4023
+Kucove,Stajke,4024
+Kucove,Rranza,4025
+Kucove,Mjede,4026
+Kucove,Kace,4027
+Kucove,Mnele-Vig,4028
+Kucove,Hajmel,4029
+Kucove,Fierze,4030
+Kucove,Kucove Qender,5301
+Kucove,Kucove 2,5302
+Kucove,Kucove 3,5303
+Kucove,Kucove 4,5304
+Kucove,Kozare,5305
+Kucove,Perondi,5306
+Kucove,Gege,5307
+Kucove,Tapi,5308
+Kukes,Qender,8501
+Kukes,Kukes 2,8502
+Kukes,Kukes 3,8503
+Kukes,Bicaj,8504
+Kukes,Ujmisht,8505
+Kukes,Bushtrice,8506
+Kukes,Gryk-Caje,8507
+Kukes,Kalis,8508
+Kukes,Arren,8509
+Kukes,Surroj,8510
+Kukes,Kolsh,8511
+Kukes,Shemri,8512
+Kukes,Shtiqen,8513
+Kukes,Bardhoc,8514
+Kukes,Zapod,8515
+Kukes,Topojan,8516
+Kukes,Shishtavec,8517
+Kukes,Novosej,8518
+Kukes,Borje,8519
+Kurbin(Lac),Qender Lac,4701
+Kurbin(Lac),Qender Lac 2,4702
+Kurbin(Lac),Sanxhak,4703
+Kurbin(Lac),Mamuras,4704
+Kurbin(Lac),Milot,4705
+Kurbin(Lac),Fushe Kuqe,4706
+Lezhe,Qendre Lezhe,4501
+Lezhe,Lezhe 1,4502
+Lezhe,Shengjin,4503
+Lezhe,Balldre,4504
+Lezhe,Blinisht,4505
+Lezhe,Dajc,4506
+Lezhe,Kallmet,4507
+Lezhe,Ungrej,4508
+Lezhe,Rrile,4509
+Lezhe,Zejmen,4510
+Librazhd,Librazhd 1,3401
+Librazhd,Librazhd 2,3402
+Librazhd,Prrenjas 1,3403
+Librazhd,Prrenjas 2,3404
+Librazhd,Rrajce,3405
+Librazhd,Stravaj,3406
+Librazhd,Qukes,3407
+Librazhd,Hotolisht,3408
+Librazhd,Polis,3409
+Librazhd,Lunik,3410
+Librazhd,Komune Qender,3411
+Librazhd,Stebleve,3412
+Librazhd,Prrenjas,3413
+Lushnje,Bucimas,7304
+Lushnje,Udenisht,7305
+Lushnje,Cerrave,7306
+Lushnje,Trebinje,7307
+Lushnje,Proptisht,7308
+Lushnje,Dardhas,7309
+Lushnje,Vel.an,7310
+Lushnje,Lushnje Qender,9001
+Lushnje,Karbunare e Vogel,9002
+Lushnje,Saver,9003
+Malesi E Madhe,Koplik,4301
+Malesi E Madhe,Gruemire,4302
+Malesi E Madhe,Grizhe,4303
+Malesi E Madhe,Tamare,4304
+Malesi E Madhe,Dedaj,4305
+Malesi E Madhe,Bajze,4306
+Mat,Burrel,8001
+Mat,Klos,8002
+Mat,Ulez (qytet),8003
+Mat,Baz,8004
+Mat,Komsi,8005
+Mat,Gurre,8006
+Mat,Suc,8007
+Mat,Xiber,8008
+Mat,Lis,8009
+Mat,Derjan,8010
+Mat,Macukull,8011
+Mat,Rukaj,8012
+Mat,Cerruje,8013
+Mat,Bejn,8014
+Mirdite,Rreshen,4601
+Mirdite,Rreshen 1,4602
+Mirdite,Rubik,4603
+Peqin,Peqin,3501
+Peqin,Perparim,3502
+Peqin,Pajove,3503
+Peqin,Sheze,3504
+Peqin,Gjocaj,3505
+Peqin,Karine,3506
+Permet,Permet,6401
+Permet,Kelcyre,6402
+Permet,Carcove,6403
+Permet,Petran,6404
+Permet,Piskove,6405
+Permet,Ballaban,6406
+Permet,Suke,6407
+Permet,Frasher,6408
+Permet,Kosine,6409
+Pogradec,Qender Pogradec,7301
+Pogradec,Pogradec 1,7302
+Pogradec,Pogradec 2,7303
+Puke,Puke,4401
+Puke,Fushe-Arrez,4402
+Puke,Iballe,4403
+Puke,Blerim,4404
+Puke,Qelez,4405
+Puke,Qafe Mali,4406
+Puke,Rrape,4407
+Puke,Gjegjan,4408
+Puke,Luf,4409
+Sarande,Remas,9004
+Sarande,Allkaj,9005
+Sarande,Krutje,9006
+Sarande,Kolonje,9007
+Sarande,Karbunare e Madhe,9008
+Sarande,Hysgjokaj,9009
+Sarande,Dushk,9010
+Sarande,Grabijan,9011
+Sarande,Golem,9012
+Sarande,Fiershegan,9013
+Sarande,Gradishte,9014
+Sarande,Terbuf,9015
+Sarande,Bubullime,9016
+Sarande,Ballagat,9017
+Sarande,Pluk,9018
+Sarande,Gorre,9019
+Sarande,Kashte Bardhe,9020
+Sarande,Kemishtaj,9021
+Sarande,Divjake,9022
+Sarande,Qender Sarande,9701
+Sarande,Saranda 1,9702
+Sarande,Saranda Gjashte,9703
+Sarande,Delvine,9704
+Sarande,Konispol,9705
+Sarande,Ksamil,9706
+Shkoder,Qender,4001
+Shkoder,Shkoder 1,4002
+Shkoder,Shkoder 2,4003
+Shkoder,Shkoder 3,4004
+Shkoder,Shkoder 4,4005
+Shkoder,Shkoder 5,4006
+Shkoder,Shkoder 6,4007
+Shkoder,Vau i Dejes,4008
+Shkoder,Dukagjin,4009
+Shkoder,Pult,4010
+Shkoder,Shosh,4011
+Shkoder,Mes,4012
+Shkoder,Koman,4013
+Shkoder,Shllak,4014
+Shkoder,Dobrac,4015
+Shkoder,Guri i ZI,4016
+Shkoder,Oblike,4017
+Shkoder,Selite,4604
+Shkoder,Orosh,4605
+Shkoder,Kthelle,4606
+Shkoder,Kacinar,4607
+Shkoder,Fan,4608
+Skrapar,.orovode Qender,5401
+Skrapar,.orovode 2,5402
+Skrapar,Polican 1,5403
+Skrapar,Polican 2,5404
+Skrapar,Bogove,5405
+Skrapar,Cepan,5406
+Skrapar,Potom,5407
+Skrapar,Gjerbes,5408
+Skrapar,Vendresh,5409
+Skrapar,Konak,5410
+Skrapar,Verzhezh,5411
+Skrapar,Velush,5412
+Skrapar,Radesh,5413
+Tepelene,Qender Tepelene,6301
+Tepelene,Qender Memaliaj,6302
+Tepelene,Gusmar,6303
+Tepelene,Buze,6304
+Tepelene,Sinanaj,6305
+Tepelene,Luftinje,6306
+Tepelene,Krahes,6307
+Tepelene,Qesarat,6308
+Tepelene,Zhapokike,6309
+Tepelene,Kalivac,6310
+Tepelene,Dragot,6311
+Tirane,Tirana 5,1001
+Tirane,Tirana 26,1002
+Tirane,Tirana 13,1003
+Tirane,Tirana 18,1004
+Tirane,Tirana 14,1005
+Tirane,Tirana 22,1006
+Tirane,Tirana 10,1007
+Tirane,Tirana 30,1008
+Tirane,Tirana 46,1009
+Tirane,Tirana 1,1010
+Tirane,Tirana 29,1011
+Tirane,Tirana 19,1012
+Tirane,Tirana 24,1013
+Tirane,Tirana 27,1014
+Tirane,Tirana 32,1015
+Tirane,Tirana 4,1016
+Tirane,Tirana 3,1017
+Tirane,Tirana 31,1018
+Tirane,Tirana 8,1019
+Tirane,Tirana 8/1,1020
+Tirane,Tirana 8/2,1021
+Tirane,Tirana 33,1022
+Tirane,Tirana 9,1023
+Tirane,Tirana 21,1024
+Tirane,Tirana 7,1025
+Tirane,Tirana 23,1026
+Tirane,Tirana 6,1027
+Tirane,Tirana 28,1028
+Tirane,Kamez Institut,1029
+Tirane,Kamez,1030
+Tirane,Tirane 11,1031
+Tirane,Vore,1032
+Tirane,Tirana Marikaj,1033
+Tirane,Petrele,1034
+Tirane,Baldushk,1035
+Tirane,Ndroq,1036
+Tirane,Berzhite,1037
+Tirane,Peze,1038
+Tirane,Preze,1039
+Tirane,Priske (Dajt),1040
+Tirane,Vaqarr,1041
+Tirane,Zall-Bastar,1042
+Tirane,Shengjergj,1043
+Tirane,Sauk,1044
+Tirane,Farke,1045
+Tirane,Selite,1046
+Tirane,Babrru,1047
+Tirane,Zall-Herr,1048
+Tirane,Krrabe,1049
+Tirane,Mezez,1050
+Tirane,Kashar,1051
+Tirane,Yzberisht,1052
+Tirane,Berxull,1053
+Tirane,Bathore,1054
+Vlore,Vlora Qender,9401
+Vlore,Vlora-1,9402
+Vlore,Vlora-2,9403
+Vlore,Skele-Vlore,9404
+Vlore,Uji Ftohte,9405
+Vlore,Shushice,9406
+Vlore,Kote,9407
+Vlore,Brataj,9408
+Vlore,Armen,9409
+Vlore,Sevaster,9410
+Vlore,Novosele,9411
+Vlore,Vllahine,9412
+Vlore,Terbac (Vranisht),9413
+Vlore,Narte,9414
+Vlore,Ramice,9415
+Vlore,Qeparo,9416
+Vlore,Vuno,9417
+Vlore,Kuc,9418
+Vlore,Bestrove,9419
+Vlore,Trevllazer,9420
+Vlore,Gjorm,9421
+Vlore,Dhermi,9422
+Vlore,Babice,9423
+Vlore,Mesaplik,9424
+Vlore,Himare,9425
+Vlore,Orikum,9426
+Vlore,Selenice,9427

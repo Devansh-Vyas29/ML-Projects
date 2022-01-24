@@ -1,0 +1,973 @@
+state,city,zipcode
+Beograd,Beograd,11000
+Beograd,Kolari,11431
+Beograd,Umcari,11430
+Beograd,Vranic,11427
+Beograd,Meljak,11426
+Beograd,Kusadak,11425
+Beograd,Azanja,11423
+Beograd,Smederevska Palanka,11420
+Beograd,Koracica,11415
+Beograd,Velika Ivanca,11414
+Beograd,Drugovac,11432
+Beograd,Pruzatovac,11413
+Beograd,Kovacevac,11409
+Beograd,Velika Krsna,11408
+Beograd,Selevac,11407
+Beograd,Vlaska,11406
+Beograd,Meduluzje,11405
+Beograd,Mladenovac,11400
+Beograd,Vinca,11351
+Beograd,Vranovo,11329
+Beograd,Vodanj,11328
+Beograd,Jagnjilo,11412
+Beograd,sepsin,11433
+Beograd,Sopot,11450
+Beograd,Rogaca (Sopot),11453
+Beograd,Mirosaljci,11567
+Beograd,Rudovci,11566
+Beograd,Barosevac,11565
+Beograd,Stepojevac,11564
+Beograd,Veliki Crljeni,11563
+Beograd,Junkovac,11562
+Beograd,Dudovica,11561
+Beograd,Vreoci,11560
+Beograd,Lazarevac,11550
+Beograd,Skela,11509
+Beograd,Grabovac,11508
+Beograd,Stubline,11507
+Beograd,Drazevac,11506
+Beograd,Zabrezje,11505
+Beograd,Baric,11504
+Beograd,Obrenovac,11500
+Beograd,Banatski Dvor,11467
+Beograd,Veliki Borak,11462
+Beograd,Beljina,11461
+Beograd,Barajevo,11460
+Beograd,Sibnica,11454
+Beograd,Markovac,11325
+Beograd,Staro Selo,11324
+Beograd,Ratari,11411
+Beograd,Skobalj,11322
+Beograd,Surcin,11271
+Beograd,Velika Mostanica,11262
+Beograd,Mala Mostanica,11261
+Beograd,Umka,11260
+Beograd,Sremcica,11253
+Beograd,Ostruznica,11251
+Beograd,Mali Pozarevac,11235
+Beograd,Ralja,11233
+Beograd,Veliko Orasje,11323
+Beograd,Pinosava,11226
+Beograd,Zuce,11225
+Beograd,Vrcin,11224
+Beograd,Beli Potok,11223
+Beograd,Slanci,11215
+Beograd,Padinska Skela,11213
+Beograd,Ovca,11212
+Beograd,Borca,11211
+Beograd,Rusanj,11194
+Beograd,Kaluderica,11130
+Beograd,Zemun,11080
+Beograd,Brograd,11031
+Beograd,Dobanovci,11272
+Beograd,Boljevci,11275
+Beograd,Ripanj,11232
+Beograd,Ugrinovci,11277
+Beograd,Jakovo,11276
+Beograd,Lugavcina,11321
+Beograd,Velika Plana,11320
+Beograd,Krnjevo,11319
+Beograd,Milosevac,11318
+Beograd,Lozovik,11317
+Beograd,Golobok,11316
+Beograd,Osipaonica,11314
+Beograd,Mala Krsna,11313
+Beograd,Mihajlovac,11312
+Beograd,Saraorci,11315
+Beograd,Progar,11280
+Beograd,Lipe,11310
+Beograd,Lestane,11309
+Beograd,Begaljica,11308
+Beograd,Bolec,11307
+Beograd,Grocka,11306
+Beograd,Smederevo,11300
+Beograd,Altina,11283
+Beograd,Radinac,11311
+Beograd,Becmen,11279
+Branicevo,Smoljinac,12312
+Branicevo,Malo Crnice,12311
+Branicevo,Vezicevo,12309
+Branicevo,setonje,12309
+Branicevo,Melnica,12305
+Branicevo,Burovac,12307
+Branicevo,Veliko Laole,12306
+Branicevo,Bozevac,12313
+Branicevo,Oreskovica,12308
+Branicevo,Rasanac,12315
+Branicevo,Porodin,12375
+Branicevo,Osanica,12317
+Branicevo,Vukovac,12318
+Branicevo,zagubica,12320
+Branicevo,Laznica,12321
+Branicevo,Suvi Do,12322
+Branicevo,Aleksandrovac,12370
+Branicevo,Poljana,12372
+Branicevo,Simicevo,12373
+Branicevo,zabari,12374
+Branicevo,Ranovac,12304
+Branicevo,Krepoljin,12316
+Branicevo,Kladurovo,12304
+Branicevo,Rabrovo,12254
+Branicevo,Klenje,12258
+Branicevo,Pozarevac,12000
+Branicevo,Bradarac,12206
+Branicevo,Dubravica,12207
+Branicevo,Kostolac,12208
+Branicevo,Veliko Gradiste,12220
+Branicevo,Majilovac,12221
+Branicevo,Branicevo,12222
+Branicevo,Golubac,12223
+Branicevo,Dobra,12224
+Branicevo,Topolovnik,12226
+Branicevo,Klicevac,12209
+Branicevo,Vinci,12229
+Branicevo,Brnjica,12230
+Branicevo,Kucevo,12240
+Branicevo,Neresnica,12242
+Branicevo,Srednjevo,12253
+Branicevo,Petrovac na Mlavi,12300
+Branicevo,Duboka,12255
+Branicevo,Voluja,12256
+Branicevo,Turija (Kucevo),12257
+Branicevo,Bare,12227
+Jablanica,Turekovac,16231
+Jablanica,Bosnjace,16232
+Jablanica,Orane,16233
+Jablanica,Klajic,16236
+Jablanica,Medveda,16240
+Jablanica,Gornji Brestovac,16244
+Jablanica,Razgojna,16252
+Jablanica,Tulare,16247
+Jablanica,Lece,16248
+Jablanica,Pecanjevce,16251
+Jablanica,Brestovac,16253
+Jablanica,Lebane,16230
+Jablanica,Sijarinska Banja,16246
+Jablanica,Ruplje,16223
+Jablanica,Crna Trava,16215
+Jablanica,Velika Grabovnica,16221
+Jablanica,Predejane,16222
+Jablanica,Leskovac,16000
+Jablanica,Manojlovce,16201
+Jablanica,Vucje,16203
+Jablanica,Bojnik,16205
+Jablanica,Kosancic,16206
+Jablanica,Mirosevce,16204
+Jablanica,Guberevac (Leskovac),16211
+Jablanica,Svode,16212
+Jablanica,Sastav Reka,16213
+Jablanica,Grdelica,16220
+Jablanica,Vlasotince,16210
+Kolubara,Gornja Toplica,14243
+Kolubara,Bogovada,14225
+Kolubara,Jabucje,14226
+Kolubara,Ljig,14240
+Kolubara,Mionica,14242
+Kolubara,Brezde,14244
+Kolubara,Komiric,14254
+Kolubara,Belanovica,14246
+Kolubara,Pricevic,14251
+Kolubara,Stave,14255
+Kolubara,Kamenica,14252
+Kolubara,Osecina,14253
+Kolubara,Lajkovac,14224
+Kolubara,Slavkovica,14245
+Kolubara,Slovac,14223
+Kolubara,Rajkovic,14202
+Kolubara,Popucke,14221
+Kolubara,Divci,14222
+Kolubara,Valjevo,14000
+Kolubara,Brankovina,14201
+Kolubara,Dracic,14203
+Kolubara,Divcibare,14204
+Kolubara,Lelic,14205
+Kolubara,Lipljan,14000
+Kolubara,Pecka,14207
+Kolubara,Ub,14210
+Kolubara,Radljevo,14211
+Kolubara,Brgule,14212
+Kolubara,Pambukovica,14213
+Kolubara,Pocuta,14206
+Kolubara,Banjani,14214
+Macva,Velika Reka,15322
+Macva,Radalj,15321
+Macva,Uzovnica,15319
+Macva,Mali Zvornik,15318
+Macva,Zajaca,15315
+Macva,Banja Koviljaca,15316
+Macva,Krupanj,15314
+Macva,Bela Crkva,15313
+Macva,Zavlaka,15312
+Macva,Donja Orovica,15323
+Macva,Donja Borina,15317
+Macva,Drlace,15324
+Macva,Crna Bara,15355
+Macva,Rainovaca,15342
+Macva,Bogatic,15350
+Macva,Zminjak,15352
+Macva,Majur,15353
+Macva,stitar,15354
+Macva,Glusci,15356
+Macva,Klenje,15357
+Macva,Badovinci,15358
+Macva,Dublje,15359
+Macva,Banovo Polje,15362
+Macva,Draginac,15311
+Macva,Lipnicki sor,15341
+Macva,Ribari,15310
+Macva,Ljubovija,15320
+Macva,Jadranska Lesnica,15308
+Macva,sabac,15000
+Macva,Macvanski Pricinovic,15211
+Macva,Drenovac,15212
+Macva,Debrc,15214
+Macva,Provo,15215
+Macva,Koceljeva,15220
+Macva,Svileuva,15221
+Macva,Kamenica,15222
+Macva,Cerovac,15224
+Macva,Vladimirci,15225
+Macva,Draginje,15226
+Macva,Donje Crniljevo,15227
+Macva,Orid,15213
+Macva,Metlic,15233
+Macva,Varna,15232
+Macva,Lesnica,15307
+Macva,Prnjavor,15306
+Macva,Petlovaca,15304
+Macva,Trsic,15303
+Macva,Lipolist,15305
+Macva,Loznica,15300
+Macva,Dobric,15235
+Macva,Brezjak,15309
+Macva,Tekeris,15234
+Macva,Korenita,15302
+Moravica,Vionica,32254
+Moravica,Gornji Milanovac,32300
+Moravica,Medurecje,32255
+Moravica,Bratljevo,32256
+Moravica,Kovilje,32257
+Moravica,Kusici,32258
+Moravica,Bele Vode,32259
+Moravica,Brdani,32303
+Moravica,Boljkovci,32312
+Moravica,Bersici,32305
+Moravica,Brezna,32307
+Moravica,Pranjani,32308
+Moravica,silopaj,32311
+Moravica,Rudnik,32313
+Moravica,Ugrinovci,32314
+Moravica,Vracevsnica,32315
+Moravica,Brezova,32253
+Moravica,Takovo,32304
+Moravica,Prilicki Kiseljak,32252
+Moravica,Gornji Banjani,32306
+Moravica,Ivanjica,32250
+Moravica,Bukovica,32251
+Moravica,cacak,32000
+Moravica,Trbusani,32205
+Moravica,Mrcajevci,32210
+Moravica,Preljina,32212
+Moravica,Gornja Trepca,32215
+Moravica,Jezevica,32222
+Moravica,Zablace,32223
+Moravica,Mrsinci,32224
+Moravica,Bresnica,32213
+Moravica,Guca,32230
+Moravica,Goracici,32232
+Moravica,Vica,32233
+Moravica,Kaona,32234
+Moravica,Kotraza,32235
+Moravica,Lucani,32240
+Moravica,Ovcar Banja,32242
+Moravica,Goricani,32225
+Moravica,Markovica,32243
+Nisava,Strelac,18332
+Nisava,Zvonce,18333
+Nisava,Temska,18355
+Nisava,Svrljig,18360
+Nisava,Prokuplje,18400
+Nisava,Nisevac,18366
+Nisava,Burdimo,18368
+Nisava,Babusnica,18330
+Nisava,Velika Plana,18403
+Nisava,Prekonoga,18365
+Nisava,Poganovo,18326
+Nisava,Ostrovica,18312
+Nisava,Smilovci,18323
+Nisava,Sukovo,18322
+Nisava,Gradina,18321
+Nisava,Dimitrovgrad,18320
+Nisava,Babin Kal,18315
+Nisava,Dolac,18314
+Nisava,Crvena Reka,18313
+Nisava,Donja Recica,18404
+Nisava,Merdare,18445
+Nisava,Bela Palanka,18310
+Nisava,Gnjilan,18309
+Nisava,Kamenica,18324
+Nisava,Dzigolj,18405
+Nisava,Malosiste,18415
+Nisava,zitni Potok,18407
+Nisava,Krupac,18307
+Nisava,Raca,18440
+Nisava,zuc,18438
+Nisava,Lukovska Banja,18437
+Nisava,Mercez,18436
+Nisava,Kursumlijska Banja,18435
+Nisava,Prolom Banja,18433
+Nisava,Barlovo,18432
+Nisava,Kursumlija,18430
+Nisava,Barbatovac,18426
+Nisava,Gornja Dragusa,18425
+Nisava,Beloljin,18424
+Nisava,Mala Plana,18423
+Nisava,Donja Trnava,18421
+Nisava,Blace,18420
+Nisava,cecina,18417
+Nisava,Donje Crnatovo,18414
+Nisava,Pejkovac,18413
+Nisava,zitorada,18412
+Nisava,Belotinac,18411
+Nisava,Doljevac,18410
+Nisava,Krusevica,18409
+Nisava,Dobri Do,18408
+Nisava,Dubovo,18406
+Nisava,Visoka Rzana,18306
+Nisava,Sicevo,18311
+Nisava,Pirot,18300
+Nisava,Drazevac,18223
+Nisava,Veliki Drenovac,18222
+Nisava,Vrcenovica,18221
+Nisava,Aleksinac,18220
+Nisava,Grejac,18219
+Nisava,Ljuberada,18217
+Nisava,Korman,18216
+Nisava,Veliko Bonjince,18215
+Nisava,Kulina,18214
+Nisava,Tesica,18212
+Nisava,Trupale,18211
+Nisava,zitkovac,18210
+Nisava,Medosevac,18209
+Nisava,Gusevac,18208
+Nisava,Malca,18207
+Nisava,Jelasnica,18206
+Nisava,Niska Banja,18205
+Nisava,Gornji Matejevac,18204
+Nisava,Secanica,18203
+Nisava,Gornja Toponica,18202
+Nisava,Lalinac,18201
+Nisava,Nis,18000
+Nisava,Crnokliste,18304
+Nisava,Rutevac,18224
+Nisava,Katun Bozicki,18225
+Nisava,Trnjane,18213
+Nisava,Subotinac,18227
+Nisava,Aleksinacki Rudnik,18226
+Nisava,Popovac,18260
+Nisava,Jovanovac,18258
+Nisava,Balajinac,18257
+Nisava,Pukovac,18255
+Nisava,Donje Medurovo,18254
+Nisava,Jugbogdanovac,18253
+Nisava,Mramor,18251
+Nisava,Novo Selo,18250
+Nisava,Ravna Dubrava,18246
+Nisava,Licki Hanovi,18245
+Nisava,Zaplanjska Toponica,18244
+Nisava,Merosina,18252
+Nisava,Luzane,18228
+Nisava,Donji Dusnik,18242
+Nisava,Mozgovo,18229
+Nisava,Soko Banja,18230
+Nisava,citluk,18232
+Nisava,Josanica,18234
+Nisava,curlina,18262
+Nisava,Vrmdza,18236
+Nisava,Dugo Polje,18237
+Nisava,Gadzin Han,18240
+Nisava,Gornji Barbes,18241
+Nisava,sarbanovac,18235
+North Backa,Palic,24413
+North Backa,Backi Sokolac,24343
+North Backa,Oreskovic,24344
+North Backa,Novo Orahovo,24351
+North Backa,Tornjos,24352
+North Backa,Senta,24400
+North Backa,Gornji Breg,24406
+North Backa,Kevi,24407
+North Backa,Bogaras,24408
+North Backa,Horgos,24410
+North Backa,Pacir,24342
+North Backa,Utrine,24437
+North Backa,Hajdukovo,24415
+North Backa,Male Pijace,24416
+North Backa,Martonos,24417
+North Backa,supljak,24418
+North Backa,Kanjiza,24420
+North Backa,Adorjan,24425
+North Backa,Tresnjevac,24426
+North Backa,Totovo Selo,24427
+North Backa,Ada,24430
+North Backa,Mol,24435
+North Backa,Krivaja,24341
+North Backa,Backi Vinogradi,24415
+North Backa,Stara Moravica,24340
+North Backa,cantavir,24220
+North Backa,Panonija,24330
+North Backa,Bajsa,24331
+North Backa,Subotica,24000
+North Backa,Kelebija,24104
+North Backa,Bikovo,24206
+North Backa,Orom,24207
+North Backa,Bajmok,24210
+North Backa,durdin,24213
+North Backa,Tavankut,24214
+North Backa,Ljutovo,24215
+North Backa,Mala Bosna,24217
+North Backa,Visnjevac,24222
+North Backa,Misicevo,24211
+North Backa,Stari zednik,24224
+North Backa,Backa Topola,24300
+North Backa,Karadordevo,24308
+North Backa,Mali Beograd,24309
+North Backa,Njegosevo,24311
+North Backa,Gunaros,24312
+North Backa,Pobeda,24313
+North Backa,Mali Idos,24321
+North Backa,Lovcenac,24322
+North Backa,Novi zednik,24223
+North Backa,Feketic,24323
+Pomoravlje,Svojnovo,35259
+Pomoravlje,Drenovac,35257
+Pomoravlje,Sikirica,35256
+Pomoravlje,Donja Mutnica,35255
+Pomoravlje,Kolare,35242
+Pomoravlje,Paracin,35250
+Pomoravlje,Tresnjevica,35248
+Pomoravlje,Plana,35247
+Pomoravlje,Rekovac,35260
+Pomoravlje,Popovac,35254
+Pomoravlje,Glavinci,35261
+Pomoravlje,Locika,35274
+Pomoravlje,Belusic,35263
+Pomoravlje,Prevest,35264
+Pomoravlje,Dragovo,35265
+Pomoravlje,Oparic,35267
+Pomoravlje,Milosevo,35268
+Pomoravlje,Strizilo,35269
+Pomoravlje,Majur,35270
+Pomoravlje,Novo Laniste,35271
+Pomoravlje,Dragocvet,35272
+Pomoravlje,Bunar,35273
+Pomoravlje,Jasenovo,35241
+Pomoravlje,Dragosevac,35262
+Pomoravlje,Resavica,35237
+Pomoravlje,Donje Vidovo,35258
+Pomoravlje,Senjski Rudnik,35234
+Pomoravlje,Jagodina,35000
+Pomoravlje,Siokovac,35203
+Pomoravlje,Bagrdan,35204
+Pomoravlje,Jovac,35205
+Pomoravlje,Rasevica,35206
+Pomoravlje,Potocac,35207
+Pomoravlje,Subotica (Kod Svilajnca),35209
+Pomoravlje,Svilajnac,35210
+Pomoravlje,Sedlare,35211
+Pomoravlje,Plazane,35212
+Pomoravlje,Despotovac,35213
+Pomoravlje,Vojska,35208
+Pomoravlje,Bobovo,35217
+Pomoravlje,Stenjevac,35215
+Pomoravlje,cuprija,35230
+Pomoravlje,Supska,35228
+Pomoravlje,Krusar,35227
+Pomoravlje,Kusiljevo,35226
+Pomoravlje,Senje,35233
+Pomoravlje,Veliki Popovic,35223
+Pomoravlje,Ribare,35220
+Pomoravlje,Mijatovac,35236
+Pomoravlje,Koncarevo,35219
+Pomoravlje,Medveda,35224
+Rasina,Globoder,37251
+Rasina,Milutovac,37246
+Rasina,Velika Drenova,37245
+Rasina,Medveda,37244
+Rasina,Pocekovina,37243
+Rasina,sljivovo,37239
+Rasina,Trstenik,37240
+Rasina,Ples,37238
+Rasina,Ploca,37237
+Rasina,Rataje,37236
+Rasina,Stopanja,37242
+Rasina,Jasika,37252
+Rasina,Kriva Reka,37282
+Rasina,Konjuh,37254
+Rasina,Kukljin,37255
+Rasina,Kaonik,37256
+Rasina,Padez,37257
+Rasina,Donji Krcin,37258
+Rasina,Ribare,37259
+Rasina,Varvarin,37260
+Rasina,Bosnjane,37262
+Rasina,Bacina,37265
+Rasina,Obrez,37266
+Rasina,Dasnica,37271
+Rasina,Trnavci,37235
+Rasina,Bela Voda,37253
+Rasina,Gornji Stupanj,37234
+Rasina,Zlatari,37228
+Rasina,Pepeljevac,37231
+Rasina,Krusevac,37000
+Rasina,Parunovac,37201
+Rasina,dunis,37202
+Rasina,Velika Vrbnica,37233
+Rasina,Veliki siljegovac,37204
+Rasina,Ribarska Banja,37205
+Rasina,Dvorane,37206
+Rasina,citluk,37208
+Rasina,Velika Lomnica,37209
+Rasina,cicevac,37210
+Rasina,Stalac,37212
+Rasina,Vitosevac,37213
+Rasina,Pojate,37214
+Rasina,Zdravinje,37203
+Rasina,Novi Bracin,37216
+Rasina,Skorica,37218
+Rasina,Brus,37220
+Rasina,Gornji Stepos,37221
+Rasina,Kupci,37222
+Rasina,Razbojna,37223
+Rasina,Lepenac,37224
+Rasina,Brzece,37225
+Rasina,Blazevo,37226
+Rasina,Milentija,37227
+Rasina,Aleksandrovac,37230
+Rasina,Razanj,37215
+Raska,Bare,36315
+Raska,stitare,36314
+Raska,Ugao,36313
+Raska,Ribarice,36309
+Raska,stavalj,36311
+Raska,Sjenica,36310
+Raska,Tutin,36320
+Raska,Duga Poljana,36312
+Raska,Crkvine,36321
+Raska,Josanicka Banja,36345
+Raska,Bogutovac,36341
+Raska,Usce,36342
+Raska,Studenica,36343
+Raska,Baljevac na Ibru,36344
+Raska,Raska,36350
+Raska,Rudnica,36353
+Raska,Kopaonik,36354
+Raska,Sopocani,36308
+Raska,Konarevo,36340
+Raska,Delimede,36307
+Raska,Brvenik,36346
+Raska,Dezeva,36305
+Raska,Lukare,36306
+Raska,Kraljevo,36000
+Raska,Mataruska Banja,36201
+Raska,Adrani,36203
+Raska,Ladevci,36204
+Raska,Rocevici,36205
+Raska,Vitanovac,36206
+Raska,Vitkovac,36207
+Raska,Sirca,36208
+Raska,Samaila,36202
+Raska,Ratina,36212
+Raska,Vrba,36214
+Raska,Podunavci,36215
+Raska,Novo Selo,36216
+Raska,Vrnjci,36217
+Raska,cukojevac,36220
+Raska,zica,36221
+Raska,Rudno,36222
+Raska,Vrnjacka Banja,36210
+Raska,Novi Pazar,36300
+South Backa,Tovarisevo,21424
+South Backa,Obrovac,21423
+South Backa,Mladenovo,21422
+South Backa,Karadordevo,21421
+South Backa,Bac,21420
+South Backa,celarevo,21413
+South Backa,Nestin,21314
+South Backa,Futog,21410
+South Backa,Backa Palanka,21400
+South Backa,Lug,21315
+South Backa,Susek,21313
+South Backa,Banostor,21312
+South Backa,Selenca,21425
+South Backa,cerevic,21311
+South Backa,Begec,21411
+South Backa,Vajska,21426
+South Backa,Kucura,21466
+South Backa,Plavna,21428
+South Backa,Srbobran,21480
+South Backa,Maglic,21473
+South Backa,Kulpin,21472
+South Backa,Ravno Selo,21471
+South Backa,Backi Petrovac,21470
+South Backa,Pivnice,21469
+South Backa,Despotovo,21468
+South Backa,Bodani,21427
+South Backa,Savino Selo,21467
+South Backa,Backo Dobro Polje,21465
+South Backa,Vrbas,21460
+South Backa,Parage,21434
+South Backa,Silbas,21433
+South Backa,Gajdobra,21432
+South Backa,Nova Gajdobra,21431
+South Backa,Backo Novo Selo,21429
+South Backa,Beocin,21300
+South Backa,Rakovac,21299
+South Backa,Glozan,21412
+South Backa,Gardinovci,21247
+South Backa,Backo Gradiste,21217
+South Backa,Nadalj,21216
+South Backa,Turija,21215
+South Backa,Sirig,21214
+South Backa,Zmajevo,21213
+South Backa,Stepanovicevo,21212
+South Backa,Kisac,21211
+South Backa,Sremska Kamenica,21208
+South Backa,Ledinci,21207
+South Backa,Sremski Karlovci,21205
+South Backa,Veternik,21203
+South Backa,Rumenka,21201
+South Backa,Petrovaradin,21131
+South Backa,Novi Sad,21102
+South Backa,Lok,21248
+South Backa,Becej,21220
+South Backa,Radicevic,21225
+South Backa,Bukovac,21209
+South Backa,Milesevo,21227
+South Backa,Vilovo,21246
+South Backa,Backo Petrovo Selo,21226
+South Backa,Mosorin,21245
+South Backa,sajkas,21244
+South Backa,Kovilj,21243
+South Backa,Kac,21241
+South Backa,Titel,21240
+South Backa,durdevo,21239
+South Backa,Budisava,21242
+South Backa,curug,21238
+South Backa,Gospodinci,21237
+South Backa,Temerin,21236
+South Backa,Temerin,21235
+South Backa,Backi Jarak,21234
+South Backa,cenej,21233
+South Backa,zabalj,21230
+Srem,Krusedol,22328
+Srem,Irig,22406
+Srem,Stejanovci,22405
+Srem,Putinci,22404
+Srem,Ruma,22400
+Srem,Nova Pazova,22330
+Srem,Stari Slankamen,22329
+Srem,Vrdnik,22408
+Srem,Maradik,22327
+Srem,Indija,22320
+Srem,Krcedin,22325
+Srem,Beska,22324
+Srem,Novi Slankamen,22323
+Srem,Novi Karlovci,22322
+Srem,Ljukovo,22321
+Srem,Krnjesevci,22314
+Srem,Vojka,22313
+Srem,Pecinci,22410
+Srem,Karlovcic,22443
+Srem,Kraljevci,22411
+Srem,Sibac,22440
+Srem,Sremski Mihaljevci,22413
+Srem,simanovci,22310
+Srem,Prhovo,22442
+Srem,Dec,22441
+Srem,Voganj,22429
+Srem,Popinci,22428
+Srem,Hrtkovci,22427
+Srem,Jarak,22426
+Srem,sasinci,22425
+Srem,Dobrinci,22412
+Srem,Klenak,22424
+Srem,Nikinci,22422
+Srem,Budanovci,22421
+Srem,Platicevo,22420
+Srem,Kupinovo,22419
+Srem,Asanja,22418
+Srem,Obrez,22417
+Srem,Ogar,22416
+Srem,Subotiste,22414
+Srem,Grabovci,22423
+Srem,Golubinci,22308
+Srem,cortanovci,22326
+Srem,Belegis,22306
+Srem,Erdevik,22230
+Srem,Bacinci,22225
+Srem,Kukujevci,22224
+Srem,Kuzmin,22223
+Srem,Martinci,22222
+Srem,Lacarak,22221
+Srem,Bosut,22217
+Srem,Grgurevci,22213
+Srem,calma,22231
+Srem,Besenovo,22212
+Srem,Lezimir,22207
+Srem,Ravnje,22205
+Srem,Salas Nocajski,22204
+Srem,Nocaj,22203
+Srem,Macvanska Mitrovica,22202
+Srem,Zasavica,22201
+Srem,Sremska Mitrovica,22000
+Srem,Surduk,22307
+Srem,Mandelos,22208
+Srem,Divos,22232
+Srem,Veliki Radinci,22211
+Srem,Vasica,22241
+Srem,sid,22239
+Srem,Novi Banovci,22304
+Srem,Stara Pazova,22300
+Srem,Gibarac,22258
+Srem,Privina Glava,22257
+Srem,Ljuba,22255
+Srem,Bikic Do,22254
+Srem,Bingula,22253
+Srem,Molovin,22256
+Srem,Stari Banovci,22305
+Srem,Ilinci,22250
+Srem,Jamena,22248
+Srem,Sremska Raca,22247
+Srem,Visnjicevo,22246
+Srem,Morovic,22245
+Srem,Adasevci,22244
+Srem,Sot,22243
+Srem,Batrovci,22251
+Srem,Berkasovo,22242
+West Backa,Stapar,25240
+West Backa,Backi Brestovac,25242
+West Backa,Doroslovo,25243
+West Backa,Srpski Miletic,25244
+West Backa,Deronje,25254
+West Backa,Odzaci,25250
+West Backa,Backi Gracac,25252
+West Backa,Lalic,25234
+West Backa,Bogojevo,25245
+West Backa,Ratkovo,25253
+West Backa,Crvenka,25220
+West Backa,Lipar,25232
+West Backa,Kula,25230
+West Backa,Kruscic,25225
+West Backa,Nova Crvenka,25224
+West Backa,Sivac,25223
+West Backa,Telecka,25222
+West Backa,Kljajicevo,25221
+West Backa,Aleksa santic,25212
+West Backa,Svetozar Miletic,25211
+West Backa,Karavukovo,25255
+West Backa,Ruski Krstur,25233
+West Backa,Apatin,25260
+West Backa,Sombor,25101
+West Backa,Prigrevica,25263
+West Backa,Kupusina,25262
+West Backa,Stanisic,25284
+West Backa,Rastina,25283
+West Backa,conoplja,25210
+West Backa,Ridica,25280
+West Backa,Gakovo,25282
+West Backa,Kolut,25274
+West Backa,Backi Monostor,25272
+West Backa,Bezdan,25270
+West Backa,Svilojevo,25265
+West Backa,Sonta,25264
+West Backa,Backi Breg,25275
+Zajecar,Sikole,19225
+Zajecar,Ostrelj,19226
+Zajecar,Zvezdan,19227
+Zajecar,Borski Brestovac,19229
+Zajecar,Vlaole,19258
+Zajecar,Luka,19234
+Zajecar,Velika Jasikova,19235
+Zajecar,Majdanpek,19250
+Zajecar,Rudna Glava,19257
+Zajecar,Podgorac,19233
+Zajecar,Gamzigradska Banja,19228
+Zajecar,Sip,19326
+Zajecar,stubik,19303
+Zajecar,Grljan,19341
+Zajecar,Grliste,19342
+Zajecar,Lenovac,19343
+Zajecar,Vratarnica,19344
+Zajecar,Donje Zunice,19345
+Zajecar,Mali Izvor,19347
+Zajecar,Knjazevac,19350
+Zajecar,Donja Kamenica,19352
+Zajecar,Kalna,19353
+Zajecar,Podvis,19362
+Zajecar,Minicevo,19340
+Zajecar,Beli Potok,19366
+Zajecar,Vina,19368
+Zajecar,Bucje,19369
+Zajecar,Boljevac,19370
+Zajecar,Lukovo,19371
+Zajecar,Bogovina,19372
+Zajecar,sarbanovac,19373
+Zajecar,Krivi Vir,19375
+Zajecar,Sumrakovac,19376
+Zajecar,Savinac,19377
+Zajecar,Osnic,19378
+Zajecar,Vasilj,19367
+Zajecar,Negotin,19300
+Zajecar,Dusanovac,19335
+Zajecar,Prahovo,19330
+Zajecar,Jabukovac,19304
+Zajecar,Urovica,19305
+Zajecar,Trnjane,19306
+Zajecar,Plavna,19307
+Zajecar,Negotin,19310
+Zajecar,Nikolicevo,19311
+Zajecar,Vrazogrnac,19312
+Zajecar,Brusnik,19313
+Zajecar,Rajac,19314
+Zajecar,Bracevac,19315
+Zajecar,Radujevac,19334
+Zajecar,Kobisnica,19316
+Zajecar,Rogljevo,19318
+Zajecar,Kladovo,19320
+Zajecar,Podvrska,19321
+Zajecar,Mihajlovac,19322
+Zajecar,Brza Palanka,19323
+Zajecar,Tekija,19325
+Zajecar,Salas,19224
+Zajecar,Grabovica,19327
+Zajecar,Velesnica,19328
+Zajecar,Korbovo,19329
+Zajecar,Mokranja,19317
+Zajecar,Koprivnica,19223
+Zajecar,Zajecar,19000
+Zajecar,Slatina,19221
+Zajecar,Klokocevac,19222
+Zajecar,Metovnica,19204
+Zajecar,Veliki Izvor,19206
+Zajecar,Lubnica,19208
+Zajecar,Mali Jasenovac,19209
+Zajecar,Bor,19210
+Zajecar,Gradskovo,19205
+Zajecar,Rgotina,19214
+Zajecar,Zlot,19215
+Zajecar,Brestovacka Banja,19216
+Zajecar,Krivelj,19219
+Zajecar,Donji Milanovac,19220
+Zajecar,Donja Bela Reka,19213
+Zlatibor,Divljaka,31236
+Zlatibor,Zlodol,31253
+Zlatibor,Mitrovac,31251
+Zlatibor,Bajina Basta,31250
+Zlatibor,sljivovica,31244
+Zlatibor,Mokra Gora,31243
+Zlatibor,Kremna,31242
+Zlatibor,Bioska,31241
+Zlatibor,Roge,31237
+Zlatibor,Brekovo,31234
+Zlatibor,Ljubis,31209
+Zlatibor,Arilje,31230
+Zlatibor,Jelen Do,31215
+Zlatibor,Gornja Dobrinja,31214
+Zlatibor,Jezevica,31213
+Zlatibor,Pozega,31210
+Zlatibor,Kostojevici,31254
+Zlatibor,Rozanstvo,31208
+Zlatibor,Sirogojno,31207
+Zlatibor,Ravni,31206
+Zlatibor,Sevojno,31205
+Zlatibor,Kruscica,31233
+Zlatibor,Rogacica,31255
+Zlatibor,Varda,31263
+Zlatibor,Kaluderske Bare,31257
+Zlatibor,Priboj,31330
+Zlatibor,Bistrica,31325
+Zlatibor,Bozetici,31322
+Zlatibor,Nova Varos,31320
+Zlatibor,Jasenovo,31319
+Zlatibor,Kokin Brod,31318
+Zlatibor,Draglica,31317
+Zlatibor,Zlatibor,31315
+Zlatibor,Jablanica,31314
+Zlatibor,Gostilje,31313
+Zlatibor,Perucac,31256
+Zlatibor,Mackat,31312
+Zlatibor,cajetina,31310
+Zlatibor,Aljinovici,31307
+Zlatibor,Jabuka,31306
+Zlatibor,Brodarevo,31305
+Zlatibor,Prijepolje,31300
+Zlatibor,Razana,31265
+Zlatibor,Karan (Uzice),31204
+Zlatibor,Seca Reka,31262
+Zlatibor,Kosjeric,31260
+Zlatibor,Bacevci,31258
+Zlatibor,Bela Zemlja,31311
+Zlatibor,Lunovo Selo,31203
+Zlatibor,Banja (Priboj),31337
+Zlatibor,Sastavci,31335
+Zlatibor,Uzice,31000
+sumadija,Gornja Trnava,34324
+sumadija,Toponica,34243
+sumadija,Zabojnica,34244
+sumadija,Arandelovac,34300
+sumadija,Bukovik,34301
+sumadija,Ranilovic,34302
+sumadija,Banja,34304
+sumadija,Darosava,34305
+sumadija,Vencane,34306
+sumadija,Stojnik,34307
+sumadija,Luznice,34325
+sumadija,Orasac,34308
+sumadija,Topola,34310
+sumadija,Belosavci,34312
+sumadija,Natalinci,34313
+sumadija,Donja satornja,34314
+sumadija,Jarmenovci,34318
+sumadija,Cerovac,34321
+sumadija,Desimirovac,34321
+sumadija,cumic,34322
+sumadija,Stragari,34323
+sumadija,Bumbarevo Brdo,34242
+sumadija,Jelovik,34309
+sumadija,Knic,34240
+sumadija,Dragobraca,34231
+sumadija,Kragujevac,34000
+sumadija,Grosnica,34202
+sumadija,Ilicevo,34203
+sumadija,Divostin,34204
+sumadija,Gornja Sabanta,34206
+sumadija,Erdec,34207
+sumadija,Marsic,34209
+sumadija,Raca Kragujevacka,34210
+sumadija,Jovanovac,34211
+sumadija,Malo Krcmare,34212
+sumadija,Guberevac,34232
+sumadija,Sipic,34213
+sumadija,Male Pcelice,34216
+sumadija,Bukurovac,34217
+sumadija,Lapovo,34220
+sumadija,Korman,34224
+sumadija,Resnik,34225
+sumadija,Badnjevac,34226
+sumadija,Batocina,34227
+sumadija,Brzan,34228
+sumadija,zirovnica,34229
+sumadija,Gruza,34230
+sumadija,durdevo,34215
+sumadija,Bare,34205
